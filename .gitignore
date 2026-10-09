@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Large trained artifacts (do not commit models)
+models/
+checkpoints/
+
+# Data integrity / generated test outputs (submit txt explicitly)
+.preview/
+
+# OS
+.DS_Store
+Thumbs.db
