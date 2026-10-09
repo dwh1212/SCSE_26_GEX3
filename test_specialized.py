@@ -11,7 +11,7 @@ from peft import (
 
 
 MODEL_PATH = (
-    "models/specialized_adapter"
+    "models/specialized_adapter_v3"
 )
 
 
